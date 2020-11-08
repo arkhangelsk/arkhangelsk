@@ -19,7 +19,7 @@ I like to educate and motivate others through my training on Udemy & SkillShare.
 #### SkillShare:
 * [Roadmap to become a Test Automation Engineer](https://skl.sh/2H3KK0g)
 
-#### 📫 How to reach me: ...
+### 📫 How to reach me: ...
 * Twitter: https://twitter.com/ambysan
 * Facebook: https://www.facebook.com/softwaretestingtrend
 * LinkedIn: https://www.linkedin.com/in/ambysan/

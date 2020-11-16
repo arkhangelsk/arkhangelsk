@@ -7,7 +7,7 @@ My name is Ambreen Khan & I am a software testing professional. My nearly 15 yea
 
 As someone who has done both, software development & testing, I would say I have an equal appreciation for both. I like to be able to create software that can “drive” other software as part of a test. This allows me to keep both my Tester & Developer mindset’s working and thinking.
 
-Want to know more about me? Checkout my [portfolio](https://arkhangelsk.github.io/AdventuresInLearning/)
+Want to know more about me? Checkout my [Adventures in Learning](https://arkhangelsk.github.io/AdventuresInLearning/)
 
 ### ✍️ Blog & Writing
 Apart from testing, I also love to share my knowledge. You can find my articles on my blog [Software Testing Trends](https://softwaretestingtrends.com/) & on my Github Wiki [Tech Journal](https://arkhangelsk.github.io/TechJournal/)

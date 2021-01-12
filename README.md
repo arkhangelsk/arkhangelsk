@@ -10,7 +10,7 @@ As someone who has done both, software development & testing, I would say I have
 Want to know more about me? Checkout my [Adventures in Learning](https://arkhangelsk.github.io/AdventuresInLearning/)
 
 ### ✍️ Blog & Writing
-Apart from testing, I also love to share my knowledge. You can find my articles on my blog [Software Testing Trends](https://softwaretestingtrends.com/) & on my Github Wiki [Tech Journal](https://arkhangelsk.github.io/TechJournal/)
+Apart from testing, I also love to share my knowledge. You can find my articles on my blog [Software Testing Trends](https://softwaretestingtrends.com/), on my [Tech Journal](https://ambreenkhan.dev/) & on my Github Wiki [Tech Journal](https://arkhangelsk.github.io/TechJournal/)
 
 ### 👩🏽‍🏫 As an instructor
 I like to educate and motivate others through my training on Udemy & SkillShare. Checkout my courses:

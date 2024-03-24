@@ -1,4 +1,4 @@
-![](https://github.com/arkhangelsk/Learning-Grid/blob/master/images/header.png)
+![](https://github.com/arkhangelsk/ambreen-khan.png)
 
 ### Hello, folks 👋
 

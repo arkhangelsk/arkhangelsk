@@ -17,7 +17,7 @@ Apart from testing, I also love to share my knowledge. Check out my articles:
 * [Medium Articles](https://medium.com/@ambysan)
 * [Github Wiki: Tech Journal](https://arkhangelsk.github.io/TechJournal/)
 
-### As a YouTuber
+### 📹 As a YouTuber
 I am passionate about TESTING, LEARNING, PRODUCTIVITY & AI and love to share my newest experiments in these domains on my YouTube channels:
 * [Learning Expressway](https://www.youtube.com/@learningexpressway)
 * [Software Testing Trends](https://www.youtube.com/@softwaretestingtrends)

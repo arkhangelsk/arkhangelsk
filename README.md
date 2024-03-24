@@ -22,7 +22,7 @@ Want to know more about me? Checkout my [portfolio](https://ambreenkhan.netlify.
 </div>
 
 [comment]: <> (Code To Render 3D Commit Table)
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 <br/><br/>
 
 ### ✍️ Blog & Writing
@@ -73,4 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+profile-3d-contrib/profile-green-animate.svg
+profile-3d-contrib/profile-south-season-animate.svg
 -->

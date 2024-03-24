@@ -52,7 +52,7 @@ I like to educate and motivate others to start their test automation exploration
 [comment]: <> (Code To Render Snake GIF)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arkhangelsk/arkhangelsk/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
 

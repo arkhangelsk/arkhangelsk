@@ -6,22 +6,26 @@ My name is Ambreen Khan & I am a software testing professional. My nearly 15 yea
 
 As someone who has done both, software development & testing, I would say I have an equal appreciation for both. I like to be able to create software that can “drive” other software as part of a test. This allows me to keep both my Tester & Developer mindset’s working and thinking.
 
-Want to know more about me? Checkout my [Adventures in Learning](https://arkhangelsk.github.io/AdventuresInLearning/)
+Want to know more about me? Checkout my [portfolio](https://ambreenkhan.netlify.app/).
 
 ### ✍️ Blog & Writing
-Apart from testing, I also love to share my knowledge. You can find my articles on my blog [Software Testing Trends](https://softwaretestingtrends.com/), on my [Tech Journal](https://ambreenkhan.dev/) & on my Github Wiki [Tech Journal](https://arkhangelsk.github.io/TechJournal/)
+Apart from testing, I also love to share my knowledge. Check out my articles:
 
-### 👩🏽‍🏫 As an instructor
-I like to educate and motivate others through my training on Udemy & SkillShare. Checkout my courses:
+* [My Blog: Tech Journal](https://ambreenkhan.dev/)
+* [My Blog: Software Testing Trends](https://softwaretestingtrends.com/)
+* [Free Code Camp](https://www.freecodecamp.org/news/author/ambreenkhan/)
+* [Medium Articles](https://medium.com/@ambysan)
+* [Github Wiki: Tech Journal](https://arkhangelsk.github.io/TechJournal/)
 
-#### Udemy
-* [Roadmap to become a Test Automation Engineer](https://www.udemy.com/course/road-map-to-become-test-automation-engineer/?referralCode=0CF887F5712A3306049F)
-* [Maximize Your Learning Potential](https://www.udemy.com/course/maximize-your-learning-potential/?referralCode=0C7648E8779000222F79)
+### As a YouTuber
+I am passionate about TESTING, LEARNING, PRODUCTIVITY & AI and love to share my newest experiments in these domains on my YouTube channels:
+* [Learning Expressway](https://www.youtube.com/@learningexpressway)
+* [Software Testing Trends](https://www.youtube.com/@softwaretestingtrends)
+  
+### 👩🏽‍🏫 As an Instructor
+I like to educate and motivate others to start their test automation exploration through my course on Udemy: [Roadmap to become a Test Automation Engineer](https://www.udemy.com/course/road-map-to-become-test-automation-engineer/?referralCode=0CF887F5712A3306049F)
 
-#### SkillShare
-* [Roadmap to become a Test Automation Engineer](https://skl.sh/2H3KK0g)
-
-### 📫 How to reach me
+### 📫 How to Reach Me
 * Twitter: https://twitter.com/ambysan
 * Facebook: https://www.facebook.com/softwaretestingtrend
 * LinkedIn: https://www.linkedin.com/in/ambysan/

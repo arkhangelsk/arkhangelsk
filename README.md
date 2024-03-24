@@ -49,7 +49,7 @@ I like to educate and motivate others to start their test automation exploration
 <a href="https://www.youtube.com/c/learningexpressway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learningexpressway" height="30" width="40" /></a>
 </p>
 
-<br/><br/>
+<br/>
 
 <!--
 **arkhangelsk/arkhangelsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

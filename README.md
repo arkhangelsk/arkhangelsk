@@ -1,4 +1,4 @@
-![](https://github.com/arkhangelsk/ambreen-khan.png)
+![](https://github.com/arkhangelsk/arkhangelsk/blob/master/ambreen-khan.png)
 
 ### Hello, folks 👋
 

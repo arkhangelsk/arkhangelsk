@@ -2,7 +2,7 @@
 
 ### Hello, folks 👋
 
-My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from Web Site Development(www.rmhsolutions.com) & App Designing to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.
+My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from Web Site Development to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.
 
 As someone who has done both, software development & testing, I would say I have an equal appreciation for both. I like to be able to create software that can “drive” other software as part of a test. This allows me to keep both my Tester & Developer mindset’s working and thinking.
 

@@ -39,18 +39,6 @@ I am passionate about TESTING, LEARNING, PRODUCTIVITY & AI and love to share my 
 I like to educate and motivate others to start their test automation exploration through my course on Udemy:   
 * [Roadmap to become a Test Automation Engineer](https://www.udemy.com/course/road-map-to-become-test-automation-engineer/?referralCode=0CF887F5712A3306049F)
 
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/ambysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambysan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin/in/ambysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin/in/ambysan" height="30" width="40" /></a>
-<a href="https://fb.com/softwaretestingtrend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="softwaretestingtrend" height="30" width="40" /></a>
-<a href="https://instagram.com/learningexpressway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learningexpressway" height="30" width="40" /></a>
-<a href="https://medium.com/@ambysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ambysan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learningexpressway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learningexpressway" height="30" width="40" /></a>
-</p>
-
-<br/>
 
 <!--
 **arkhangelsk/arkhangelsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
